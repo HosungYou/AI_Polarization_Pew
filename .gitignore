@@ -1,0 +1,21 @@
+# Raw data (restricted use, do not distribute)
+data/raw/
+data/processed/
+
+# R environment
+.Rhistory
+.RData
+.Rproj.user/
+.venv/
+
+# OMC state
+.omc/
+
+# macOS
+.DS_Store
+
+# Output files (regenerable from scripts)
+output/figures/*
+output/tables/*
+!output/figures/.gitkeep
+!output/tables/.gitkeep
