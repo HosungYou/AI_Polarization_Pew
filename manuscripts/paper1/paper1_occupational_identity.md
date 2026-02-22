@@ -182,9 +182,7 @@ Three patterns stand out. First, concern increased by 15.0 percentage points bet
 
 Rao-Scott chi-square tests confirmed statistically significant associations between AI attitudes and all demographic variables examined (party identification, age, gender, education, race/ethnicity, income, and AI awareness) across all three waves (all *p* < .001).
 
-**Figure 1.** *Trend in AI Attitude Categories Across Three Survey Waves (Weighted Proportions)*
-
-[Figure 1 depicts a line chart with three trend lines representing the three response categories across December 2022, August 2023, and August 2024. The "Concerned" line rises sharply from 38.2% to 53.2% and then slightly declines to 50.9%. The "Equal Mix" line declines from 46.3% to 36.5% and then modestly recovers to 38.3%. The "Excited" line declines from 15.5% to 10.3% and then remains essentially flat at 10.9%.]
+![Figure 1. Trend in AI Attitude Categories Across Three Survey Waves (Weighted Proportions)](fig1_cncexc_trend.png)
 
 Shannon entropy of the attitude distribution decreased from 1.02 (Wave 1) to 0.94 (Wave 2), indicating that the distribution became more concentrated, specifically toward the "Concerned" category. This entropy reduction fits a population undergoing an opinion crystallization process in which ambivalent attitudes resolve toward a dominant pole.
 
@@ -275,9 +273,7 @@ Table 4 and Figure 2 present the average marginal effects (AMEs) of Republican/l
 
 *Note.* AME = average marginal effect expressed in percentage points (pp). Computed using the marginaleffects package in R with survey weights applied. Each AME represents the average difference in predicted probability of concern between Republican/lean-Republican and Democrat/lean-Democrat respondents, holding all other covariates at observed values.
 
-**Figure 2.** *Average Marginal Effect of Republican Identification on Predicted Probability of AI Concern, by Survey Wave*
-
-[Figure 2 depicts a bar chart or point-and-error-bar plot showing the AME declining from 12.5 pp (December 2022) to 10.1 pp (August 2023) to 7.0 pp (August 2024). All error bars exclude zero but the intervals are progressively lower, illustrating the convergence pattern.]
+![Figure 2. Average Marginal Effect of Republican Identification on Predicted Probability of AI Concern, by Survey Wave](fig2_ame_party.png)
 
 The AME results provide the most substantively interpretable evidence for H3. In December 2022, Republican/lean-Republican respondents were 12.5 percentage points more likely than their Democratic counterparts to express concern about AI (*p* < .001). This gap narrowed to 10.1 percentage points by August 2023 (*p* < .001) and to 7.0 percentage points by August 2024 (*p* < .001). The gap nearly halved. Over the 20-month observation period, the partisan gap in AI concern declined by 44%.
 
