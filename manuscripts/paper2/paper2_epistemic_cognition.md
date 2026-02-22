@@ -176,6 +176,8 @@ Table 1 presents the weighted distribution of AI attitudes across the three surv
 | Aug 2023 (W2) | 10.3 | 53.2 | 36.5 | 11,201 |
 | Aug 2024 (W3) | 10.9 | 50.9 | 38.3 | 5,410 |
 
+![Figure 1. Trend in AI Attitude Categories Across Three Survey Waves (Weighted Proportions)](fig1_cncexc_trend.png)
+
 *Note.* Estimates are survey-weighted. Source: Pew Research Center American Trends Panel.
 
 Shannon entropy for the overall attitude distribution decreased from 1.02 in December 2022 to 0.94 in August 2024, indicating that the distribution concentrated toward the Concerned category over time and that attitudinal diversity declined.
@@ -201,6 +203,8 @@ Table 2 presents the cross-tabulation of AI attitudes by educational attainment 
 | HS grad or less | Aug 2024 | 9.3 | 56.2 | 34.5 |
 
 *Note.* Estimates are survey-weighted. Rao-Scott chi-square tests indicated significant associations between education and AI attitudes at each wave (*p* < .001).
+
+![Figure 2. AI Attitude Distribution by Education Level Across Survey Waves](fig2_education_gap.png)
 
 Across all three waves, college graduates were approximately 7--8 percentage points more likely than adults with high school or less education to report the Equally response. The gradient held even as all education groups shifted toward greater concern between Waves 1 and 2. That consistency matters: the structure of the education gradient survived a seismic shift in the overall attitude distribution.
 
@@ -294,6 +298,8 @@ The joint Wald test was decisively nonsignificant (*p* = .563), providing strong
 ## Average Marginal Effects
 
 Average marginal effects from the binary logistic model (Concerned vs. Not) provided probability-scale estimates of predictor effects. The AME for having a high school education or less (relative to college graduate) was approximately 6.2 percentage points (*p* < .001), meaning that, net of all other variables, adults with the lowest educational attainment were 6.2 percentage points more likely to express categorical concern about AI. The AME for Some College was approximately 3.8 percentage points (*p* < .001).
+
+![Figure 3. Average Marginal Effects of Education on Predicted Probability of AI Concern, by Survey Wave](fig3_ame_education.png)
 
 Partisan identification showed the largest single AME. In December 2022, the partisan gap in predicted concern was 12.5 percentage points (Republicans more concerned than Democrats). By August 2024, this gap had narrowed to approximately 7.0 percentage points, reflecting a convergence in which Democrats' concern rose while Republicans' concern stabilized at already elevated levels. The partisan gap shrank. The education gap did not. That contrast turns out to be theoretically revealing.
 
