@@ -1,0 +1,61 @@
+variable,category,group,n_unwt,wtd_pct,total_n
+age_cat,18-29,A,439,18.8,5399
+age_cat,30-49,A,1697,33.9,5399
+age_cat,50-64,A,1565,25.3,5399
+age_cat,65+,A,1684,22,5399
+age_cat,18-29,B,479,18.6,5350
+age_cat,30-49,B,1743,34,5350
+age_cat,50-64,B,1518,25.1,5350
+age_cat,65+,B,1582,22.3,5350
+age_cat,18-29,Overall,918,18.7,10749
+age_cat,30-49,Overall,3440,33.9,10749
+age_cat,50-64,Overall,3083,25.2,10749
+age_cat,65+,Overall,3266,22.2,10749
+education,College graduate+,A,2716,36.3,5399
+education,HS graduate or less,A,951,32.9,5399
+education,Some College,A,1722,30.8,5399
+education,College graduate+,B,2722,35.4,5350
+education,HS graduate or less,B,912,34.2,5350
+education,Some College,B,1705,30.5,5350
+education,College graduate+,Overall,5438,35.8,10749
+education,HS graduate or less,Overall,1863,33.5,10749
+education,Some College,Overall,3427,30.6,10749
+gender,Female,A,2907,50.6,5399
+gender,Male,A,2434,47.6,5399
+gender,Other,A,52,1.8,5399
+gender,Female,B,2912,50.3,5350
+gender,Male,B,2386,48.8,5350
+gender,Other,B,37,0.8,5350
+gender,Female,Overall,5819,50.5,10749
+gender,Male,Overall,4820,48.2,10749
+gender,Other,Overall,89,1.3,10749
+income_tier,Lower,A,1116,30.1,5399
+income_tier,Middle,A,2672,49.8,5399
+income_tier,Upper,A,1341,20.1,5399
+income_tier,Lower,B,1115,28.7,5350
+income_tier,Middle,B,2607,51.2,5350
+income_tier,Upper,B,1359,20.1,5350
+income_tier,Lower,Overall,2231,29.4,10749
+income_tier,Middle,Overall,5279,50.5,10749
+income_tier,Upper,Overall,2700,20.1,10749
+party,Dem/Lean Dem,A,2859,51.2,5399
+party,Rep/Lean Rep,A,2540,48.8,5399
+party,Dem/Lean Dem,B,2907,50.9,5350
+party,Rep/Lean Rep,B,2443,49.1,5350
+party,Dem/Lean Dem,Overall,5766,51.1,10749
+party,Rep/Lean Rep,Overall,4983,48.9,10749
+race,Asian non-Hispanic,A,323,5.9,5399
+race,Black non-Hispanic,A,672,11.5,5399
+race,Hispanic,A,654,15.6,5399
+race,Other non-Hispanic,A,207,4.6,5399
+race,White non-Hispanic,A,3505,62.5,5399
+race,Asian non-Hispanic,B,337,6.1,5350
+race,Black non-Hispanic,B,699,11.5,5350
+race,Hispanic,B,692,15.4,5350
+race,Other non-Hispanic,B,189,4.3,5350
+race,White non-Hispanic,B,3376,62.7,5350
+race,Asian non-Hispanic,Overall,660,6,10749
+race,Black non-Hispanic,Overall,1371,11.5,10749
+race,Hispanic,Overall,1346,15.5,10749
+race,Other non-Hispanic,Overall,396,4.4,10749
+race,White non-Hispanic,Overall,6881,62.6,10749

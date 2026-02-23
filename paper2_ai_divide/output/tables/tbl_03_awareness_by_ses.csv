@@ -1,0 +1,73 @@
+stratifier,group1,group2,ai_heard,wtd_pct,ci_low,ci_upp,n_unwt
+education x income,College graduate+,Lower,A lot,37.2,31.2,43.2,214
+education x income,College graduate+,Lower,A little,57.6,51.4,63.8,270
+education x income,College graduate+,Lower,Nothing,5.2,2.4,8,25
+education x income,College graduate+,Middle,A lot,39.9,37.4,42.4,1039
+education x income,College graduate+,Middle,A little,57.3,54.8,59.9,1506
+education x income,College graduate+,Middle,Nothing,2.8,2,3.6,70
+education x income,College graduate+,Upper,A lot,52.9,50.1,55.7,1080
+education x income,College graduate+,Upper,A little,45.5,42.7,48.3,952
+education x income,College graduate+,Upper,Nothing,1.6,0.7,2.5,25
+education x income,Some College,Lower,A lot,31.8,26.9,36.7,268
+education x income,Some College,Lower,A little,55.3,50.2,60.5,508
+education x income,Some College,Lower,Nothing,12.9,9.3,16.5,97
+education x income,Some College,Middle,A lot,34.7,31.5,37.9,631
+education x income,Some College,Middle,A little,60.7,57.4,63.9,1120
+education x income,Some College,Middle,Nothing,4.6,3.3,5.9,94
+education x income,Some College,Upper,A lot,36.4,31.1,41.8,208
+education x income,Some College,Upper,A little,58.4,52.8,64,304
+education x income,Some College,Upper,Nothing,5.2,2.2,8.2,18
+education x income,HS graduate or less,Lower,A lot,23.3,19.1,27.6,201
+education x income,HS graduate or less,Lower,A little,54.8,49.9,59.6,446
+education x income,HS graduate or less,Lower,Nothing,21.9,18,25.8,197
+education x income,HS graduate or less,Middle,A lot,26.2,22,30.4,192
+education x income,HS graduate or less,Middle,A little,60.8,56.1,65.4,510
+education x income,HS graduate or less,Middle,Nothing,13,9.8,16.3,115
+education x income,HS graduate or less,Upper,A lot,34,21.6,46.3,29
+education x income,HS graduate or less,Upper,A little,63,50.6,75.5,77
+education x income,HS graduate or less,Upper,Nothing,3,-0.5,6.4,5
+education x race,College graduate+,White non-Hispanic,A lot,42,39.9,44,1563
+education x race,College graduate+,White non-Hispanic,A little,56.1,54.1,58.2,2045
+education x race,College graduate+,White non-Hispanic,Nothing,1.9,1.3,2.5,62
+education x race,College graduate+,Black non-Hispanic,A lot,42.4,36.7,48.1,217
+education x race,College graduate+,Black non-Hispanic,A little,53.7,48,59.4,265
+education x race,College graduate+,Black non-Hispanic,Nothing,3.9,1.9,6,21
+education x race,College graduate+,Hispanic,A lot,44.8,38.2,51.5,267
+education x race,College graduate+,Hispanic,A little,50.4,43.6,57.1,249
+education x race,College graduate+,Hispanic,Nothing,4.8,1.8,7.7,25
+education x race,College graduate+,Other non-Hispanic,A lot,46.1,37.1,55,82
+education x race,College graduate+,Other non-Hispanic,A little,48.3,39.3,57.3,97
+education x race,College graduate+,Other non-Hispanic,Nothing,5.6,0.3,11,6
+education x race,College graduate+,Asian non-Hispanic,A lot,60.5,55,66,278
+education x race,College graduate+,Asian non-Hispanic,A little,36.5,31.1,41.9,199
+education x race,College graduate+,Asian non-Hispanic,Nothing,3,1.1,5,12
+education x race,Some College,White non-Hispanic,A lot,31.5,28.7,34.3,675
+education x race,Some College,White non-Hispanic,A little,62.2,59.2,65.1,1364
+education x race,Some College,White non-Hispanic,Nothing,6.3,4.7,7.9,114
+education x race,Some College,Black non-Hispanic,A lot,35.4,29,41.7,178
+education x race,Some College,Black non-Hispanic,A little,54.3,47.7,60.8,270
+education x race,Some College,Black non-Hispanic,Nothing,10.4,6.9,13.8,51
+education x race,Some College,Hispanic,A lot,36.4,29.2,43.7,172
+education x race,Some College,Hispanic,A little,54,46.5,61.4,252
+education x race,Some College,Hispanic,Nothing,9.6,5.5,13.7,44
+education x race,Some College,Other non-Hispanic,A lot,44.8,33.3,56.3,65
+education x race,Some College,Other non-Hispanic,A little,48.7,37.2,60.2,77
+education x race,Some College,Other non-Hispanic,Nothing,6.5,-2.7,15.7,3
+education x race,Some College,Asian non-Hispanic,A lot,47.2,33.6,60.8,62
+education x race,Some College,Asian non-Hispanic,A little,51.6,38,65.3,61
+education x race,Some College,Asian non-Hispanic,Nothing,1.2,-0,2.4,4
+education x race,HS graduate or less,White non-Hispanic,A lot,22.5,19.2,25.9,225
+education x race,HS graduate or less,White non-Hispanic,A little,64.6,60.8,68.4,681
+education x race,HS graduate or less,White non-Hispanic,Nothing,12.9,10.3,15.5,143
+education x race,HS graduate or less,Black non-Hispanic,A lot,24.4,17.3,31.4,85
+education x race,HS graduate or less,Black non-Hispanic,A little,49.6,41.7,57.6,178
+education x race,HS graduate or less,Black non-Hispanic,Nothing,26,19.2,32.7,106
+education x race,HS graduate or less,Hispanic,A lot,26.3,19.3,33.3,90
+education x race,HS graduate or less,Hispanic,A little,51.4,43.6,59.2,167
+education x race,HS graduate or less,Hispanic,Nothing,22.3,15.8,28.7,74
+education x race,HS graduate or less,Other non-Hispanic,A lot,35.6,19.7,51.4,20
+education x race,HS graduate or less,Other non-Hispanic,A little,57.7,41.5,74,38
+education x race,HS graduate or less,Other non-Hispanic,Nothing,6.7,-0.3,13.7,6
+education x race,HS graduate or less,Asian non-Hispanic,A lot,43.2,24.2,62.3,18
+education x race,HS graduate or less,Asian non-Hispanic,A little,42.6,23.6,61.6,21
+education x race,HS graduate or less,Asian non-Hispanic,Nothing,14.1,0.5,27.8,5
