@@ -11,19 +11,19 @@
 #   (Aug 2023), with trend context from W119 (Dec 2022) and W152 (Aug 2024).
 #
 # Input:
-#   paper2_ai_divide/output/paper2_w132_full.rds    (primary; fallback to enriched)
+#   manuscripts/paper2/output/paper2_w132_full.rds    (primary; fallback to enriched)
 #   data/processed/pew_w132_enriched.rds            (fallback)
 #   data/processed/pew_w119.rds                     (trend)
 #   data/processed/pew_w132.rds                     (trend)
 #   data/processed/pew_w152.rds                     (trend)
 #
-# Outputs — Tables (paper2_ai_divide/output/tables/):
+# Outputs — Tables (manuscripts/paper2/output/tables/):
 #   tbl_01_sample_description.csv
 #   tbl_02_attitude_by_edu_race.csv
 #   tbl_03_awareness_by_ses.csv
 #   tbl_04_domain_by_education.csv
 #
-# Outputs — Figures (paper2_ai_divide/output/figures/, 300 dpi PNG):
+# Outputs — Figures (manuscripts/paper2/output/figures/, 300 dpi PNG):
 #   fig01_attitude_trend.png         (8 × 5 in)
 #   fig02_education_attitude_mosaic.png  (9 × 6 in)
 #   fig03_awareness_by_ses.png       (8 × 5 in)
@@ -58,7 +58,7 @@ project_root <- tryCatch(
 )
 cat("Project root:", project_root, "\n")
 
-p2_root <- file.path(project_root, "paper2_ai_divide")
+p2_root <- file.path(project_root, "manuscripts/paper2")
 
 # Output paths
 out_tables  <- file.path(p2_root, "output", "tables")

@@ -9,9 +9,9 @@
 #   - data/raw/W132_Aug23/ATP W132.sav        (fallback)
 #
 # Outputs:
-#   - paper2_ai_divide/output/paper2_w132_full.rds   Full sample + form flag
-#   - paper2_ai_divide/output/paper2_form_a.rds       Form A LCA-ready subset
-#   - paper2_ai_divide/output/paper2_form_b.rds       Form B LCA-ready subset
+#   - manuscripts/paper2/output/paper2_w132_full.rds   Full sample + form flag
+#   - manuscripts/paper2/output/paper2_form_a.rds       Form A LCA-ready subset
+#   - manuscripts/paper2/output/paper2_form_b.rds       Form B LCA-ready subset
 #
 # Split-sample note:
 #   Form A (~5,590): domains a-d (accurate info, health care, vehicle safety,
@@ -37,7 +37,7 @@ library(tidyverse)
 PROJECT_ROOT  <- "/Users/hosung/AI_Polarization_Pew"
 ENRICHED_RDS  <- file.path(PROJECT_ROOT, "data/processed/pew_w132_enriched.rds")
 RAW_SPSS      <- file.path(PROJECT_ROOT, "data/raw/W132_Aug23/ATP W132.sav")
-OUT_DIR       <- file.path(PROJECT_ROOT, "paper2_ai_divide/output")
+OUT_DIR       <- file.path(PROJECT_ROOT, "manuscripts/paper2/output")
 
 dir.create(OUT_DIR, showWarnings = FALSE, recursive = TRUE)
 

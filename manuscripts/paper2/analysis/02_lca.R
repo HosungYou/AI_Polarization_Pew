@@ -14,7 +14,7 @@ library(tidyverse)
 library(poLCA)
 
 # ── Paths ────────────────────────────────────────────────────────────────────
-base_dir  <- "/Users/hosung/AI_Polarization_Pew/paper2_ai_divide"
+base_dir  <- "/Users/hosung/AI_Polarization_Pew/manuscripts/paper2"
 out_dir   <- file.path(base_dir, "output")
 tbl_dir   <- file.path(out_dir, "tables")
 fig_dir   <- file.path(out_dir, "figures")

@@ -8,18 +8,18 @@
 # Inputs:
 #   - data/processed/pew_w119.rds
 #   - data/processed/pew_w152.rds
-#   - paper2_ai_divide/output/paper2_form_a_with_class.rds  (W132 LCA results)
+#   - manuscripts/paper2/output/paper2_form_a_with_class.rds  (W132 LCA results)
 #
 # Outputs — Tables:
-#   - paper2_ai_divide/output/tables/tbl_cv01_fit_by_wave.csv
-#   - paper2_ai_divide/output/tables/tbl_cv02_profiles_by_wave.csv
-#   - paper2_ai_divide/output/tables/tbl_cv03_class_proportions.csv
-#   - paper2_ai_divide/output/tables/tbl_cv04_education_by_wave.csv
+#   - manuscripts/paper2/output/tables/tbl_cv01_fit_by_wave.csv
+#   - manuscripts/paper2/output/tables/tbl_cv02_profiles_by_wave.csv
+#   - manuscripts/paper2/output/tables/tbl_cv03_class_proportions.csv
+#   - manuscripts/paper2/output/tables/tbl_cv04_education_by_wave.csv
 #
 # Outputs — Figures (300 dpi PNG, no titles):
-#   - paper2_ai_divide/output/figures/fig_cv01_profile_comparison.png
-#   - paper2_ai_divide/output/figures/fig_cv02_class_proportions.png
-#   - paper2_ai_divide/output/figures/fig_cv03_education_gradient.png
+#   - manuscripts/paper2/output/figures/fig_cv01_profile_comparison.png
+#   - manuscripts/paper2/output/figures/fig_cv02_class_proportions.png
+#   - manuscripts/paper2/output/figures/fig_cv03_education_gradient.png
 #
 # Notes:
 #   - W119 (Dec 2022) and W152 (Aug 2024) have only 2 LCA indicators.
@@ -44,7 +44,7 @@ library(poLCA)
 
 PROJECT_ROOT <- "/Users/hosung/AI_Polarization_Pew"
 DATA_DIR     <- file.path(PROJECT_ROOT, "data/processed")
-OUT_DIR      <- file.path(PROJECT_ROOT, "paper2_ai_divide/output")
+OUT_DIR      <- file.path(PROJECT_ROOT, "manuscripts/paper2/output")
 TBL_DIR      <- file.path(OUT_DIR, "tables")
 FIG_DIR      <- file.path(OUT_DIR, "figures")
 

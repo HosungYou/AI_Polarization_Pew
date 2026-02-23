@@ -8,7 +8,7 @@ suppressPackageStartupMessages({
   library(scales)
 })
 
-here_base <- "/Users/hosung/AI_Polarization_Pew/paper2_ai_divide"
+here_base <- "/Users/hosung/AI_Polarization_Pew/manuscripts/paper2"
 dir_tbl   <- file.path(here_base, "output", "tables")
 dir_fig   <- file.path(here_base, "output", "figures")
 

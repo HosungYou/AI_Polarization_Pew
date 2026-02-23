@@ -29,7 +29,7 @@ for (pkg in required_pkgs) {
 }
 
 # ── 0. Paths ──────────────────────────────────────────────────────────────────
-here_base <- "/Users/hosung/AI_Polarization_Pew/paper2_ai_divide"
+here_base <- "/Users/hosung/AI_Polarization_Pew/manuscripts/paper2"
 dir_out   <- file.path(here_base, "output")
 dir_tbl   <- file.path(dir_out, "tables")
 dir_fig   <- file.path(dir_out, "figures")
